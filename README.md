@@ -45,7 +45,7 @@ The main script that integrates all functionalities:
    ```bash
    pip install opencv-python numpy
    ```
-3. Ensure the following folder structure for images:
+3. Ensure the following folder structure for images and set correct path in the main.py file:
    ```
    Images of Chess board/
        chess.png
@@ -126,8 +126,3 @@ The main script that integrates all functionalities:
 - Integrate move validation and piece tracking.
 - Support for custom chessboard images and piece sets.
 
----
-
-## License
-
-This project is licensed under the MIT License. Feel free to use and modify it.
